@@ -4,20 +4,20 @@ Is a 6 axis manipulator robot, with a 3D printed cycloidal gearbox, and a custom
 
 ### SDRAC mechanical design
 This repository contains the 3D models and parts of the SDRAC project.
-[sdrac_mechanical](sdrac_mechanical/README.md)
-![image](sdrac_mechanical/images/Robot_asembly.png)
+[sdrac_mechanical](https://github.com/X-Lemon-X/sdrac_mechanical)
+![image](images/Robot_asembly.png)
 
 
 ### SDRAC electronic design
 This repository contains the psb schematics and designs of the SDRAC board.
-[sdrac_electronics](sdrac_electronics/README.md)
-![image](sdrac_electronics/img/pc_top.png)
+[sdrac_electronics](https://github.com/X-Lemon-X/sdrac_electronics)
+![image](images/front.png)
 
 ### SDRAC firmware
 This repository contains the firmware for the SDRAC board.
-[sdrac_firmware](sdrac_software_low/README.md)
+[sdrac_firmware](https://github.com/X-Lemon-X/sdrac_software_low)
 
 ### SDRAC ROS interface
 This repository contains the ROS interface for the SDRAC board.
-[sdrac_ros_interface](sdrac_software_high/README.md)
+[sdrac_ros_interface](git@github.com:X-Lemon-X/sdrac_software_high.git)
 
