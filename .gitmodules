@@ -1,0 +1,12 @@
+[submodule "sdrac_software_low"]
+	path = sdrac_software_low
+	url = ../sdrac_software_low.git
+[submodule "sdrac_software_high"]
+	path = sdrac_software_high
+	url = ../sdrac_software_high.git
+[submodule "sdrac_mechanical"]
+	path = sdrac_mechanical
+	url = ../sdrac_mechanical.git
+[submodule "sdrac_electronics"]
+	path = sdrac_electronics
+	url = ../sdrac_electronics.git
