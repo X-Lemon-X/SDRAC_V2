@@ -7,3 +7,6 @@
 [submodule "sdrac_electronics"]
 	path = sdrac_electronics
 	url = ../sdrac_electronics.git
+[submodule "sdrac_controler"]
+	path = sdrac_controler
+	url = git@github.com:X-Lemon-X/sdrac_controler.git
